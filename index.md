@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## ah!my good friend.
 
 You can use the [editor on GitHub](https://github.com/pouraimer/crispy-potato/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
